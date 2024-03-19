@@ -1,4 +1,4 @@
-##Welcome to my playground
+##Welcome to my playground##
 
 The contents of this repo are for educational purposes only. It is a place for me to store learning projects as I work on them.
 If you find something useful and learn something from it, congratulations.
